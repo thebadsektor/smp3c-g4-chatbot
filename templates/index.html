@@ -17,6 +17,8 @@
         }
         
         .card {
+            border-color: rgb(0, 0, 0);
+            border-style: double;
             width: 33.33%;
             height: 90%;
         }
@@ -27,7 +29,7 @@
         }
 
         .chat-response-wrapper {
-            border-radius: 5px;
+            border-radius: 20px;
             padding: 10px;
             margin: 10px;
         }
@@ -40,20 +42,21 @@
 
     </style>
 
-    <title>Gerabot</title>
+    <title>LAGUNA STATE POLYTECHNIC UNIVERSITY ALUMNI</title>
 </head>
 <body onload="bot_greet('Hello');">
-    <div class="container-fluid card-container p-10" style="background-color:lightgray">
+    <div class="container-fluid card-container p-10" style="background-color:lightskyblue">
         <div class="card">
             <div class="card-header font-weight-bold">
-                Gerabot
+                ALUMNI ASSISTANT BOT
             </div>
             <div class="card-body chatbox" id="chatbox">
-              
+                <img src="templates/lspulogo.png" width="100px" height="100px">
+               WELCOME TO CHAT BOT FOR ALUMNI OF LSPU SCC 
             </div>
             <div class="card-footer">
-                <div class="input-group">
-                    <input type="text" name="msg" class="form-control" id="chat-input">
+                <div class="input-group"> 
+                    <input type="text" name="msg" class="form-control" id="chat-input" placeholder="What is your question?">                    
                     <div class="input-group-append">
                         <button class="btn btn-primary" id="send-btn">Send</button>
                     </div>

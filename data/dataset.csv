@@ -1,59 +1,232 @@
-HumanSays:,RobotSays:
-HumanSays:,RobotSays:
-What time is it?,getTIME
-What time do you have?,getTIME
-Got the time?,getTIME
-When is it?,getTIME
-What day is it?,getDATE
-What is the date?,getDATE
-Do you know what time it is?,getTIME
-Do you have the time,getTIME
-IDKnull,I don't know.
-IDKnull,I'll need to take some time to think on that.
-IDKnull,Can you try rephrasing that please?
-IDKnull,I'm not sure about that.
-IDKnull,Is there a different way you can ask that?
-IDKnull,I don't have a response for that.
-IDKnull,I will have to give that some thought.
-IDKnull,I don't really know what you are asking.
-IDKnull,There are some things I just don't know about yet.
-IDKnull,I'm not an expert on that.
-IDKnull,I could not tell you.
-Nothing,What?
-Nothing,I think you hit the wrong key...
-Nothing,What did you want to ask?
-Nothing,Let's talk about something.
-Nothing,One more time?
-Who are you?,I am a ChatBot.
-Who are you?,I am a Python powered ChatBot.
-Who are you?,I am a ChatBot running on Python and a dash of artificial intelligence.
-Hello,Hello World!
-Hi,Hello World!
-Greetings,Hello World!
-Hey,Hello World!
-What's up?,Hello World!
-Who are you?,I am a Chatbot.
-What is your name?,ChatBot.
-1 + 1?, 2
-add one to one, two
-what products to you sell?, tsinelas
-what products to you sell?, slippers
-what products to you sell?, armor sa paa
-Do you sell slippers?, yes
-What days do you operate?,We are operating every weekdays
-What time do you close?, We are until 5pm
-Where to go ?, You can go to extension office
-What is the requirements?, Can you ask specific questions
-What is the requirements?, You must ask specific questions
-What will be the requirements,	You must have complete and graduate
-What is the requirements when taking diploma?, You must have a certification of Graduation
-What is the requirements when taking diploma?, You can go to extention office and submit the Certificate of graduation
-How do I request a transcript of record?, You can go to the extension office
-How to request TOR ?, You can go to extension office and ask the person there
-How to get TOR ?, You need to go to the extension office and ask for TOR
-What information do I need to provide when requesting a transcript?, You must bring your ID
-What information do I need to provide when requesting a transcript?, ID is one of the requirements
-What is need in requesting TOR?, You must bring your ID
-How to get TOR?, you must go to the extention office
-Where is extension office?, At the CCS department Left side
-How to get Transcript record?, you must go to the extention office
+HumanSays:,RobotSays:,,
+HumanSays:,RobotSays:,,
+What time is it?,getTIME,,
+What time do you have?,getTIME,,
+Got the time?,getTIME,,
+When is it?,getTIME,,
+What day is it?,getDATE,,
+What is the date?,getDATE,,
+Do you know what time it is?,getTIME,,
+Do you have the time,getTIME,,
+IDKnull,I don't know.,,
+IDKnull,I'll need to take some time to think on that.,,
+IDKnull,Can you try rephrasing that please?,,
+IDKnull,I'm not sure about that.,,
+IDKnull,Is there a different way you can ask that?,,
+IDKnull,I don't have a response for that.,,
+IDKnull,I will have to give that some thought.,,
+IDKnull,I don't really know what you are asking.,,
+IDKnull,There are some things I just don't know about yet.,,
+IDKnull,I'm not an expert on that.,,
+IDKnull,I could not tell you.,,
+Nothing,What?,,
+Nothing,I think you hit the wrong key...,,
+Nothing,What did you want to ask?,,
+Nothing,Let's talk about something.,,
+Nothing,One more time?,,
+Who are you?,I am a ChatBot.,,
+Who are you?,I am a Python powered ChatBot.,,
+Who are you?,I am a ChatBot running on Python and a dash of artificial intelligence.,,
+Hello,Hello World!,,
+Hi,Hello World!,,
+Greetings,Hello World!,,
+Hey,Hello World!,,
+What's up?,Hello World!,,
+Who are you?,I am a Chatbot.,,
+What is your name?,ChatBot.,,
+1 + 1?," 2",,
+add one to one," two",,
+what products to you sell?," tsinelas",,
+what products to you sell?," slippers",,
+what products to you sell?," armor sa paa",,
+Do you sell slippers?," yes",,
+What days do you operate?," We are operating every weekdays",,
+What days do you operate?," We are open every monday to friday",,
+What days do you operate?," The extension office is open every weekdays ",,
+What time do you close?," We are until 5pm",,
+Where to go ?," You can go to extension office",,
+What is the requirements?," Can you ask specific questions",,
+What is the requirements?," You must ask specific questions",,
+What will be the requirements,	You must have complete and graduate,,
+What is the requirements when taking diploma?," You must have a certification of Graduation",,
+What is the requirements when taking diploma?," You can go to extention office and submit the Certificate of graduation",,
+How do I request a transcript of record?," You can go to the extension office",,
+How to request TOR ?," You can go to extension office and ask the person there",,
+How to get TOR ?," You need to go to the extension office and ask for TOR",,
+What information do I need to provide when requesting a transcript?," You must bring your ID",,
+What information do I need to provide when requesting a transcript?," ID is one of the requirements",,
+What is need in requesting TOR?," You must bring your ID",,
+How to get TOR?," you must go to the extention office",,
+Where is extension office?," At the CCS department Left side",,
+How to get Transcript record?," You must go to the extention office",,
+Where can iget this record?," You can get this and ask the registrar",,
+What criteria must be met to earn a diploma?,You can present your graduation certificate at the extension office.,,
+Where is this record available?," You can obtain this by contacting the registrar.",,
+Which days do you work?," Our business is open every weekday.",,
+What hours do you work?," Every weekday we are open.",,
+What criteria must be met to earn a diploma?," You must have a graduation certificate",,
+When do you stop business?," Up until 5pm",,
+What should I do?," You could visit the Extension office.",,
+What are the specifications?," Can you provide more details",,
+Were should I go to get a yearbook?," You can go to the Extension Office near at the CCS Quadrangle.",,
+How to get diploma?," You can go to extentions office near at CCS Quadrangle",,
+How do i get diploma?," You can go to extentions office near at CCS Quadrangle",,
+How does diploma useful?," Diplomas are often awarded by Graduated Student institutions upon completion of a prescribed curriculum",,
+What is TOR?," Student Information This includes the student's full name student identification number date of birth and contact details",,
+What is the use of TOR?," Student Information This includes the student's full name student identification number date of birth and contact details",,
+What is Transcript of record?," Student Information This includes the student's full name student identification number date of birth and contact details",,
+What is The Transcript of record ?,This in cludes the students full name and identification number.,,
+What is Yearbook ?,"An annual publication giving current information and listing events or aspects of the previous year, especially in a particular field.",,
+What is Yearbook?,"An annual publication that provides current information while also listing events or aspects of the previous year, typically in a specific field.",,
+What is yearbook?,"An annual publication that provides current information as well as a list of events or aspects from the previous year, usually in a specific field.",,
+What will be requirement taking yearbook?,ID is the main requirement,,
+What if there is no ID?,You must have ID,,
+What if there is no receipt?,You must have receipt,,
+Is there a deadline for requesting the diploma after completing the program?,Nothing,,
+Are there any special honors or distinctions mentioned on the diploma for exceptional academic performance?,Nothing,,
+Is there a specific person or department I should contact if I have further questions or concerns about my diploma?,"The Dean ",,
+How can I officially request my diploma after completing all the requirements?,If you go to the extensions office,,
+How long does it typically take to receive the diploma after submitting the request?,It takes an hour,,
+Are there any policies or guidelines regarding the use or display of the diploma?,Nothing,,
+How can i use this diploma?,you can use it to apply jobs,,
+How long it takes to get?,As long as the person is not busy,,
+How long does it take to get diploma?,You can get is as soon as posible,,
+How can I request a Transcript of Records?,You can request a Transcript of Records by contacting the school's registrar's office or academic records department.,,
+What documents or information do I need to provide to request a Transcript of Records?,"You may need to provide your full name, student identification number, dates of enrollment, and any other identification or verification details requested by the school.",,
+Is there a fee associated with requesting a Transcript of Records?,"Yes, there may be a fee for obtaining a Transcript of Records. You can inquire about the fee amount and payment methods from the school.",,
+How long does it take to process a Transcript of Records request?,The processing time can vary depending on the school. It's best to ask the school about their expected timeline for issuing the Transcript of Records.,,
+Can I request multiple copies of the Transcript of Records?,"Yes, you can inquire about the process and any additional fees for obtaining multiple copies of the Transcript of Records.",,
+What format will the Transcript of Records be provided in?,"The Transcript of Records is usually provided as a printed document on official school letterhead. However, some schools may also offer electronic versions or PDFs.",,
+Can the Transcript of Records be sent directly to another institution or organization?,"Yes, you can ask the school if they provide the option to send the Transcript of Records directly to another institution or organization. They may have specific procedures for this.",,
+What format will the Transcript of Records be provided in?,"The Transcript of Records is usually provided as a printed document on official school letterhead. However, some schools may also offer electronic versions or PDFs.",,
+Can the Transcript of Records be sent directly to another institution or organization?,"Yes, you can ask the school if they provide the option to send the Transcript of Records directly to another institution or organization. They may have specific procedures for this.",,
+Can I request an official Transcript of Records with a school seal?,Most schools provide official Transcripts of Records with a school seal. You can confirm this with the school.,,
+What is the validity period of the Transcript of Records?,"Transcripts of Records are typically considered valid indefinitely. However, it's always a good idea to confirm with the receiving institution or organization if they have any specific requirements or expiration dates.",,
+Are there any specific instructions for requesting a Transcript of Records for international purposes?,"If you need the Transcript of Records for international purposes, you can ask the school if they have any specific instructions or additional documentation requirements for international transcript requests.",,
+Can I request a Transcript of Records for a specific time period or specific courses only?,"You can inquire if the school can provide a Transcript of Records for a specific academic year, semester, or a selected set of courses.",,
+How will the grades be displayed on the Transcript of Records?,The Transcript of Records will typically display the grades or marks earned for each course or subject taken during your enrollment at the school.,,
+Will the Transcript of Records include a cumulative grade point average (CGPA)?,"Yes, most Transcripts of Records include a cumulative grade point average (CGPA) that summarizes your overall academic performance.",,
+"Can the Transcript of Records include additional information, such as extracurricular activities or honors received?","Some schools may include additional information, such as extracurricular activities or academic honors, on the Transcript of Records. You can inquire if this is included or if they provide a separate document for such details.",,
+Will the Transcript of Records indicate the credit hours assigned to each course?,The Transcript of Records may include the credit hours or course units assigned to each course you have completed. This information helps determine the workload of each course.,,
+Are there any prerequisites or requirements for requesting a Transcript of Records?,"You can ask the school if there are any specific prerequisites or requirements for requesting a Transcript of Records, such as clearing any outstanding fees or fulfilling academic obligations.",,
+Can I authorize someone else to pick up or request the Transcript of Records on my behalf?,Some schools may allow you to authorize someone else to pick up or request the Transcript of Records on your behalf. You can inquire about the necessary authorization procedures.,,
+Is there an option for expedited processing or express delivery of the Transcript of Records?,"If you require urgent processing or delivery of the Transcript of Records, you can ask the school if they offer expedited services and if there are any additional fees associated with it.",,
+Can I track the status of my Transcript of Records request?,You can inquire if the school provides a tracking system or updates on the status of your Transcript of Records request.,,
+Are there any restrictions on accessing or obtaining a Transcript of Records if I have outstanding fees or obligations to the school?,The school may have restrictions on issuing a Transcript of Records if you have outstanding fees or unfulfilled obligations. You can ask about their policy in such cases.,,
+How can I request corrections or updates to the Transcript of Records if there are any errors?,"If you notice any errors or discrepancies on the Transcript of Records, you can inquire about the process for requesting corrections or updates.",,
+"Will the Transcript of Records be available in multiple languages, if needed?",You can ask if the school provides Transcripts of Records in multiple languages or if they offer translation services.,,
+"Can I request a letter of explanation or clarification to accompany the Transcript of Records, if necessary?","If you need a letter of explanation or clarification to accompany the Transcript of Records, you can ask if the school can provide such a letter upon request.",,
+Can the school provide any additional documentation or supporting materials alongside the Transcript of Records?,"You can inquire if the school can provide any additional documentation or supporting materials that may be required alongside the Transcript of Records, such as course syllabi or course descriptions.",,
+Can I request a replacement or duplicate Transcript of Records if the original is lost or damaged?,"If your original Transcript of Records is lost or damaged, you can ask if the school offers a replacement or duplicate Transcript of Records and what the process and associated fees are.",,
+Are there any specific guidelines or restrictions on using the Transcript of Records for official purposes?,"You can ask if there are any specific guidelines or restrictions on how the Transcript of Records should be used for official purposes, such as university applications or employment.",,
+Will the Transcript of Records indicate the grading scale or system used by the school?,The Transcript of Records may provide information about the grading scale or system used by the school. You can confirm this with the school.,,
+Can I request a notarized or certified copy of the Transcript of Records?,"If you require a notarized or certified copy of the Transcript of Records, you can inquire if the school provides this service and what the process and associated fees are.",,
+Are there any special instructions for requesting a Transcript of Records for graduate studies or professional licensing?,"If you are requesting a Transcript of Records for graduate studies or professional licensing, you can ask if there are any specific instructions or additional requirements for such requests.",,
+Can the Transcript of Records include a summary of completed research projects or thesis work?,"If you have completed any research projects or thesis work, you can inquire if the Transcript of Records can include a summary or notation of these accomplishments.",,
+Can I request a separate Transcript of Records for each program or degree completed at the school?,"If you have completed multiple programs or degrees at the same school, you can ask if you can request separate Transcripts of Records for each program or degree.",,
+Will the Transcript of Records include information about any transfer credits from other institutions?,The Transcript of Records may include information about transfer credits received from other institutions. You can ask if this information will be included or if there is a separate document for transfer credits.,,
+Can I request a Transcript of Records for a specific academic year or semester only?,"If you need a Transcript of Records for a specific academic year or semester, you can inquire if the school can provide this specific documentation.",,
+Can I request a provisional Transcript of Records if I have not yet completed my studies?,"If you have not yet completed your studies but need a Transcript of Records, you can ask if the school offers provisional Transcripts of Records that indicate the courses completed up to a certain point.",,
+Are there any restrictions on accessing or obtaining a Transcript of Records after a certain period of time?,Some schools may have restrictions on accessing or obtaining Transcripts of Records after a certain period of time. You can ask if there are any limitations in this regard.,,
+Will the Transcript of Records include a signature or official endorsement from the school administration?,The Transcript of Records may include a signature or official endorsement from the school administration. You can inquire if this is included on the document.,,
+Can the school provide any additional guidance or assistance in interpreting the Transcript of Records?,"If you require assistance in interpreting the Transcript of Records or understanding the grading system used, you can ask if the school can provide any additional guidance or resources.",,
+Can I request a course syllabus or description to accompany the Transcript of Records?,"If you need course syllabi or descriptions to accompany the Transcript of Records, you can inquire if the school can provide these documents upon request.",,
+Can I request a separate Transcript of Records for non-academic or vocational courses completed at the school?,"If you have completed non-academic or vocational courses at the school, you can ask if you can request a separate Transcript of Records specifically for these courses.",,
+Can I request a Transcript of Records for courses or programs completed at affiliated or partner institutions?,"If you have completed courses or programs at affiliated or partner institutions, you can ask if the school can provide a Transcript of Records that includes these credits or if there is a separate process for such documentation.",,
+Will the Transcript of Records indicate any academic honors or distinctions received?,The Transcript of Records may indicate any academic honors or distinctions you have received during your studies. You can inquire if this information will be included on the document.,,
+"Can the school provide any guidance on the use of the Transcript of Records for specific purposes, such as professional licensing or credential evaluation?","If you need guidance on how to use the Transcript of Records for specific purposes, such as professional licensing or credential evaluation, you can ask if the school can provide any assistance or recommendations.",,
+Can I request a Transcript of Records for courses or programs that were audited or taken without academic credit?,"If you have audited or taken courses without receiving academic credit, you can inquire if you can request a Transcript of Records that includes these courses or if there is a separate process for documenting such instances.",,
+Can I request a Transcript of Records for courses or programs completed through distance learning or online education?,"If you have completed courses or programs through distance learning or online education, you can ask if the school can provide a Transcript of Records that includes these credits or if there is a separate process for documenting online studies.",,
+Can the school provide any guidance on how the Transcript of Records should be submitted or used for graduate school applications?,"If you are applying to graduate school, you can ask if the school can provide any guidance on how the Transcript of Records should be submitted or used in the application process.",,
+Can I request a Transcript of Records for professional development or continuing education courses completed at the school?,"If you have completed professional development or continuing education courses at the school, you can ask if you can request a Transcript of Records specifically for these courses.",,
+Can I request a Transcript of Records for courses or programs completed as part of a study abroad or exchange program?,"If you have participated in a study abroad or exchange program and completed courses or programs at a foreign institution, you can ask if the school can provide a Transcript of Records that includes these credits or if there is a separate process for documenting study abroad experiences.",,
+Can I request a Transcript of Records for courses or programs completed at multiple campuses or locations of the same school?,"If you have completed courses or programs at multiple campuses or locations of the same school, you can ask if you can request a Transcript of Records that includes these credits or if there is a separate process for documenting studies at different locations.",,
+Can I request a Transcript of Records for courses or programs completed through a joint degree program with another institution?,"If you have completed courses or programs through a joint degree program with another institution, you can ask if the school can provide a Transcript of Records that includes these credits or if there is a separate process for documenting joint degree programs.",,
+Can the Transcript of Records be sent electronically to other institutions or organizations?,"You can inquire if the school provides the option to send the Transcript of Records electronically to other institutions or organizations, such as through secure online portals or email.",,
+Can I request an unofficial Transcript of Records for personal reference or preliminary applications?,"If you need an unofficial Transcript of Records for personal reference or preliminary applications, you can ask if the school can provide such a document and if there are any limitations on its use.",,
+Can the school provide a separate Transcript of Records for co-curricular activities or non-academic achievements?,"If you participated in co-curricular activities or have non-academic achievements you would like documented, you can inquire if the school can provide a separate Transcript of Records specifically for these purposes.",,
+Can I request a Transcript of Records for courses or programs completed before a specific date?,"If you need a Transcript of Records for courses or programs completed before a specific date, you can ask if the school can provide this specific documentation.",,
+Can the school provide any guidance on how to interpret or convert the grading scale used on the Transcript of Records to a different system?,"If you need assistance in interpreting or converting the grading scale used on the Transcript of Records to a different system, you can inquire if the school can provide any guidance or resources for this purpose.",,
+Can I request a Transcript of Records that includes a summary of transfer credits from other institutions?,"If you have transfer credits from other institutions, you can ask if the school can provide a Transcript of Records that includes a summary of these transfer credits alongside your completed coursework.",,
+Can I request a Transcript of Records that includes a summary of courses in progress or future enrollment plans?,"If you have courses in progress or future enrollment plans that you would like to include on the Transcript of Records, you can inquire if the school can provide a Transcript of Records that includes a summary of these courses.",,
+"Can I request a Transcript of Records for courses or programs completed under a different name (e.g., maiden name)?","If you completed courses or programs under a different name (e.g., maiden name), you can ask if the school",,
+Can I request a Transcript of Records for courses or programs completed as a non-degree-seeking student?,"If you have completed courses or programs as a non-degree-seeking student, you can ask if you can request a Transcript of Records specifically for these courses or if they will be included in the general Transcript of Records.",,
+Can I request a Transcript of Records for courses or programs completed at the school as a high school student or through dual enrollment?,"If you completed courses or programs at the school as a high school student or through dual enrollment programs, you can inquire if you can request a Transcript of Records specifically for these courses or if there is a separate process for documenting high school or dual enrollment studies.",,
+Can the Transcript of Records include information about courses or programs completed through credit-by-examination or proficiency testing?,The Transcript of Records may include information about courses or programs completed through credit-by-examination or proficiency testing. You can ask if this information will be included on the document.,,
+Can I request a Transcript of Records for courses or programs completed under different academic departments or schools within the institution?,"If you have completed courses or programs under different academic departments or schools within the institution, you can inquire if you can request a Transcript of Records that includes credits from these different departments or schools.",,
+Can the Transcript of Records include a summary of academic advising or counseling sessions attended?,"If you have attended academic advising or counseling sessions, you can ask if the Transcript of Records can include a summary or notation of these sessions.",,
+Can I request a Transcript of Records for courses or programs completed during summer sessions or intersessions?,"If you have completed courses or programs during summer sessions or intersessions, you can ask if you can request a Transcript of Records specifically for these courses or if they will be included in the general Transcript of Records.",,
+Can the Transcript of Records include a summary of co-op or internship experiences?,"If you have completed courses or programs through a self-paced or competency-based learning format, you can inquire if you can request a Transcript of Records specifically for these courses or if there is a separate process for documenting self-paced or competency-based studies.",,
+"Can the Transcript of Records include a summary of workshops, seminars, or non-credit professional development activities attended?","If you have attended workshops, seminars, or non-credit professional development activities, you can ask if the Transcript of Records can include a summary or notation of these activities.",,
+Can I request a Transcript of Records for courses or programs completed through a prior learning assessment or portfolio evaluation process?,"If you have completed courses or programs through a prior learning assessment or portfolio evaluation process, you can ask if you can request a Transcript of Records specifically for these courses or if there is a separate process for documenting prior learning assessments or portfolio evaluations.",,
+Can the school provide any guidance on how to submit or attach the Transcript of Records to online applications or systems?,"If you need guidance on how to submit or attach the Transcript of Records to online applications or systems, you can ask if the school can provide any instructions or recommendations for this process.",,
+Can I request a Transcript of Records for courses or programs completed as a part-time student?,"If you have completed courses or programs as a part-time student, you can ask if you can request a Transcript of Records specifically for these courses",,
+Can the Transcript of Records include information about courses or programs completed through a credit recovery or academic support program?,The Transcript of Records may include information about courses or programs completed through a credit recovery or academic support program. You can ask if this information will be included on the document.,,
+Can I request a Transcript of Records for courses or programs completed through a concurrent enrollment or early college program?,"If you have completed courses or programs through a concurrent enrollment or early college program, you can inquire if you can request a Transcript of Records specifically for these courses or if there is a separate process for documenting concurrent enrollment or early college studies.",,
+"Can the Transcript of Records include a summary of leadership roles, extracurricular activities, or community service involvement?","If you have held leadership roles, participated in extracurricular activities, or engaged in community service, you can ask if the Transcript of Records can include a summary or notation of these involvements.",,
+Can I request a Transcript of Records for courses or programs completed through a military training or education program?,"If you have completed courses or programs through a military training or education program, you can ask if you can request a Transcript of Records specifically for these courses or if there is a separate process for documenting military training or education.",,
+Can the school provide any guidance on how to submit the Transcript of Records for scholarship or financial aid applications?,"If you need guidance on how to submit the Transcript of Records for scholarship or financial aid applications, you can ask if the school can provide any instructions or recommendations for this process.",,
+Can I request a Transcript of Records for courses or programs completed as a transfer student from another institution?,"If you have transferred from another institution, you can ask if you can request a Transcript of Records specifically for the courses or programs completed at the previous institution or if there is a separate process for documenting transfer credits.",,
+Can I request a Transcript of Records for courses or programs completed through a study tour or fieldwork experience?,"If you have completed courses or programs through a study tour or fieldwork experience, you can inquire if you can request a Transcript of Records specifically for these courses or if there is a separate process for documenting study tours or fieldwork experiences.",,
+Can the Transcript of Records include a summary of academic or disciplinary honors or awards received?,The Transcript of Records may include a summary of academic or disciplinary honors or awards you have received. You can ask if this information will be included on the document.,,
+"Can I request a Transcript of Records for courses or programs completed in a specific format (e.g., online, hybrid, traditional classroom)?","If you have completed courses or programs in a specific format, such as online, hybrid, or traditional classroom, you can ask if you can request a Transcript of Records specifically for these courses or if there is a separate process for documenting different course formats.",,
+Can the school provide any guidance on how the Transcript of Records should be submitted or used for employment applications?,"If you need guidance on how to submit or use the Transcript of Records for employment applications, you can ask if the school can provide any instructions or recommendations for this process.",,
+Can I request a Transcript of Records for courses or programs completed through an independent study or research project?,"If you have completed courses or programs through an independent study or research project, you can inquire if you can request a Transcript of Records specifically for these courses or if there is a separate process for documenting independent study or research projects.",,
+"Can I request a Transcript of Records for courses or programs completed through a non-traditional academic calendar (e.g., quarter system, trimester system)?","If the school follows a non-traditional academic calendar, such as a quarter system or trimester system, you can ask if you can request a Transcript of Records specifically for these courses or if there is a separate process for documenting studies in non-traditional academic calendars.",,
+"Can the Transcript of Records include a summary of research publications, presentations, or academic conferences attended?","If you have research publications, presentations, or academic conference involvements, you can ask if the Transcript of Records can include a summary or notation of these achievements.",,
+Can I request a Transcript of Records for courses or programs completed through a credit recovery or academic intervention program?,"If you have completed courses or programs through a credit recovery or academic intervention program, you can inquire if you can request a Transcript of Records specifically for these courses or if there is a separate process for documenting credit recovery or academic intervention programs.",,
+Can I request a Transcript of Records for courses or programs completed through a cooperative education (co-op) program?,"If you have completed courses or programs through a cooperative education (co-op) program, you can ask if you can request a Transcript of Records specifically for these courses or if there is a separate process for documenting co-op experiences.",,
+Can the Transcript of Records include a summary of thesis or dissertation research and defense?,"If you have completed a thesis or dissertation, you can ask if the Transcript of Records can include a summary or notation of your research topic, defense date, or other relevant information.",,
+Can I request a Transcript of Records for courses or programs completed through a certificate or non-degree program?,"If you have completed courses or programs through a certificate or non-degree program, you can inquire if you can request a Transcript of Records specifically for these courses or if there is a separate process for documenting certificate or non-degree studies.",,
+Can I request a Transcript of Records for courses or programs completed through an accelerated or fast-track program?,"If you have completed courses or programs through an accelerated or fast-track program, you can ask if you can request a Transcript of Records specifically for these courses or if there is a separate process for documenting accelerated or fast-track studies.",,
+Can the Transcript of Records include a summary of professional licenses or certifications obtained?,The Transcript of Records may include a summary of professional licenses or certifications you have obtained during your studies. You can ask if this information will be included on the document.,,
+How can I request a copy of my transcript?,"To request a copy of your transcript, you usually need to contact your school's administration office or registrar.",,
+What information do I need to provide when requesting a transcript?,"You typically need to provide your full name, student identification number (if applicable), date of birth, graduation year (if applicable), and the address where you want the transcript to be sent.",,
+Is there a fee for obtaining a transcript?,"Schools may charge a fee for providing transcripts. The specific fee amount varies depending on the institution, so it's best to inquire with your school regarding their policy.",,
+How long does it take to receive a transcript?,The time it takes to receive a transcript can vary depending on the school's processing time. It's best to contact your school to get an estimate.,,
+Can I request a transcript if I am still enrolled in the school?,"Yes, you can typically request a transcript even if you are still enrolled. The process is the same as for former students.",,
+Can I request an unofficial transcript?,Some schools may provide unofficial transcripts that are typically intended for personal use. Check with your school to see if this option is available.,,
+Can I request multiple copies of my transcript?,"Yes, you can often request multiple copies of your transcript if you need them for various purposes. There may be an additional fee for each copy.",,
+Can I authorize someone else to request my transcript on my behalf?,"Yes, you can usually authorize someone else, such as a family member or friend, to request your transcript. They may need to provide a signed letter of authorization and their identification.",,
+Can I request a transcript if my school has closed?,"If your school has closed, you can contact the appropriate educational authority or governing body in your region to inquire about obtaining your transcript.
+
+",,
+Can I request a transcript from a previous school I attended?,Can I request a transcript from a previous school I attended?,,
+Can I request a transcript if I attended multiple schools?,"Yes, you can request transcripts from each school you attended. You will need to contact the respective schools individually.",,
+How do I request an official transcript for college applications?,"When applying to colleges, you typically request official transcripts directly from your high school. Contact your high school's administration office for guidance on the process.",,
+Can I request a transcript for a specific period or semester?,"In some cases, you may request a transcript for a specific period or semester, especially if you require records of a particular time frame. Specify the period when making your request.",,
+Can I request an electronic transcript instead of a physical copy?,"Many schools now offer electronic transcripts, which can be sent directly to the recipient's email address. Inquire with your school to see if this option is available",,
+How long are transcript records kept by the school?,"Schools generally keep transcript records for a certain number of years, often well beyond the date of graduation. The specific duration may vary, so contact your school to confirm.",,
+Can I request a transcript if I dropped out of school?,"Even if you dropped out of school, you can typically request a transcript for the period you were enrolled. Contact your school's administration office for assistance.",,
+What if there's an error on my transcript?,"If you notice an error on your transcript, contact your school's administration office immediately to rectify the issue. They will guide you through the necessary steps to correct any inaccuracies.",,
+Can I request a transcript if I completed my education through homeschooling?,"If you were homeschooled, you may not have a traditional school transcript. However, you can usually provide other documentation to verify your education, such as a homeschool completion certificate or portfolio.",,
+How can I request a copy of a yearbook from the registrar's office?,"To request a copy of a yearbook, you typically need to contact the registrar's office of your school.",,
+Is there a specific process for requesting a yearbook?,The process for requesting a yearbook may vary depending on the school. Contact the registrar's office for their specific instructions.,,
+Can I request a yearbook from any past year?,"In most cases, you can request a yearbook from any past year that is available in the school's archives. However, availability may vary.",,
+Is there a fee for obtaining a yearbook?,Some schools may charge a fee for providing a copy of a yearbook. Contact the registrar's office to inquire about any associated costs.,,
+How long does it take to receive a yearbook?,Check with the registrar's office for an estimate.,,
+Can I request multiple copies of a yearbook?,"You may be able to request multiple copies of a yearbook, depending on availability. Inquire with the registrar's office for more information.",,
+Can I request a specific page or section from a yearbook?,"Typically, you request a complete copy of a yearbook rather than specific pages or sections. However, you can inquire about any alternative options available.",,
+Can I request a digital copy of a yearbook?,Some schools may offer digital copies of yearbooks. Inquire with the registrar's office to see if this option is available.,,
+Can I authorize someone else to request a yearbook on my behalf?,"You can often authorize someone else, such as a family member or friend, to request a yearbook for you. Contact the registrar's office for their specific requirements.",,
+Can I request a yearbook if I didn't graduate from the school?,"In most cases, you can still request a yearbook even if you didn't graduate from the school. Contact the registrar's office for their policy regarding non-graduates.",,
+Can I request a yearbook if the school has closed?,"If the school has closed, it may be challenging to obtain a yearbook. However, you can try contacting the school district or relevant educational authorities for assistance.",,
+Can I request a yearbook if I transferred schools?,"If you transferred schools, you can typically request a yearbook from each school you attended. Contact the registrar's office of each school individually.",,
+Can I request a yearbook from a different school or district?,"Generally, you can only request a yearbook from the school or district where you were enrolled. Contact the registrar's office of your specific school for more information.",,
+Can I request a yearbook from a specific event or club?,"Yearbooks typically cover the entire school year and include various events and clubs. However, if you're looking for specific event or club documentation, contact the registrar's office for guidance.",,
+Can I request a yearbook from a specific grade level?,Yearbooks usually cover all grade levels within a school. You can request a yearbook from your specific grade level or the entire school. Specify your preference when making the request.,,
+Can I request a yearbook from a specific decade?,"Depending on the availability of archived yearbooks, you may be able to request a yearbook from a specific decade. Inquire with the registrar's office for options.",,
+Can I request a yearbook if I attended a private school?,"If you attended a private school, you can typically request a yearbook from that school. Follow the same process as requesting a yearbook from a public school.",,
+Can I request a yearbook if I attended an international school?,"If you attended an international school, you can typically request a yearbook from that school. Contact the registrar's office for their specific instructions.",,
+Can I request a yearbook if I was homeschooled?,"If you were homeschooled, you may not have a traditional yearbook. However, you can check with any homeschooling organizations or groups you were affiliated with for alternatives.",,
+Can I request a yearbook if I graduated a long time ago?,"In most cases, you can request a yearbook even if you graduated many years ago. Schools often maintain archives of past yearbooks. Contact the registrar's office to inquire about availability.",,
+Can I request a yearbook if I don't remember the exact year I graduated?,"While it's helpful to know the exact year you graduated, you can still request a yearbook without this information. Provide as much detail as possible, such as approximate dates or other identifying information, to assist the registrar's office in locating the appropriate yearbook.",,
+Can I request a yearbook if I lost mine?,"If you lost your yearbook, you can typically request a replacement copy from the registrar's office. Contact them for their specific instructions on how to proceed.",,
+Can I request a yearbook if I want to donate it to the school's archives?,"If you have a yearbook you want to donate to the school's archives, contact the registrar's office or the school's library to inquire about their acceptance policy.",,
+Can I request a yearbook if I want to borrow it temporarily?,"In most cases, yearbooks are not available for temporary borrowing. However, you can check with the registrar's office or the school's library for any special arrangements or viewing options.",,
+Can I request a yearbook from a school I attended outside of the United States?,"If you attended a school outside of the United States, you can typically request a yearbook from that school. Contact the registrar's office or the school directly for their specific instructions.",,
+Can I request a yearbook if I attended a virtual or online school?,"If you attended a virtual or online school, they may have digital yearbooks or other documentation. Contact the school's administration or registrar's office to inquire about obtaining a copy.",,
+Can I request a yearbook from a school that merged or changed its name?,"If a school merged or changed its name, you can typically request a yearbook from the new school entity or the current administrative body responsible for maintaining records. Inquire with them for guidance.",,
+Can I request a yearbook if I only attended the school for a short period?,"If you attended the school for a short period, you can still request a yearbook. Provide the details of your enrollment period to the registrar's office to assist them in locating the appropriate yearbook.",,
+Can I request a yearbook from a vocational or technical school?,Vocational or technical schools may have yearbooks or similar documentation. Contact the registrar's office or administration of the specific school to inquire about obtaining a copy.,,
+Can I request a yearbook from a university or college?,Universities and colleges often have their own yearbooks or similar publications. Contact the registrar's office or the university's archives department for information on obtaining a copy.,,

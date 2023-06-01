@@ -26,7 +26,7 @@
         }
 
         .card-body {
-            background: linear-gradient(to top left, #996600 0%, #ff9900 100%);
+            /*background: linear-gradient(to top left, #996600 0%, #ff9900 100%);*/
             overflow-y: auto;
             height: calc(100% - 2.5rem - 2.5rem); /* subtract the heights of the header and footer */
         }
@@ -93,7 +93,7 @@
 
         function bot_greet(firstText) {
           $.get("/get", { msg: firstText }).done(function(data) {
-            var botHtml = '<div class="chat-response-wrapper border border-primary"><p> <span class="font-weight-bold"> Registrar Bot </span> <span class="text-sm text-secondary" style="font-size: 0.60rem">10:35 AM</span></p><p>' + Hello + '</p></div>';
+            var botHtml = '<div class="chat-response-wrapper border border-primary"><p> <span class="font-weight-bold"> Registrar Bot </span> <span class="text-sm text-secondary" style="font-size: 0.60rem">10:35 AM</span></p><p>' + data + '</p></div>';
             $("#chatbox").append(botHtml);
           });
         }

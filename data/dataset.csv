@@ -1,17 +1,17 @@
 HumanSays:,RobotSays:
 HumanSays:,RobotSays:
-IDKnull,Hello
-IDKnull,Hi
-IDKnull,Greetings
-IDKnull,Hey
-IDKnull,What's up?
-IDKnull,Hello
-IDKnull,Hi
-IDKnull,Greetings
-IDKnull,Hey
-IDKnull,What's up?
-IDKnull,Hello
-Nothing,What?
+IDKnull,"Hello, I am Piyu. How can I assist you today?"
+IDKnull,What can I help you today?
+IDKnull,"Greetings, what can I help you today?"
+IDKnull,"I am Piyu, how can I assost you today?"
+IDKnull,What can I help yo today?
+IDKnull,"Ask me anything related about TOR, yearbook and diploma."
+IDKnull,"Good day, what are your questions?"
+IDKnull,What are your questions? I can assist you.
+IDKnull,What are your questions?
+IDKnull,How can I help you?
+IDKnull,What can I help you today?
+Nothing,What? Sorry I didn't get that.
 Nothing,I think you hit the wrong key...
 Nothing,What did you want to ask?
 Nothing,Let's talk about something.
